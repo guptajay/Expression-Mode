@@ -15,7 +15,7 @@ We developed a technical solution for Microsoft Teams, powered by Microsoft Azur
 With the COVID-19 pandemic, work from home is the new norm and video conferencing tools are at the foreground of collaboration. Visually impaired individuals find it difficult to read facial expressions in such a setting and are deprived of important non-verbal cues. Our application leverages Artificial Intelligence to provide live sentiment analysis on the facial expressions of the participants in a video conference. It also helps users align their web cameras appropriately before entering a meeting.
 
 ## Authors
-* Aditya Bansal
-* Jay Gupta
-* Ritwik Kanodia
-* Vidurveer Duggal
+* [Aditya Bansal](https://github.com/bansal-aditya)
+* [Jay Gupta](https://github.com/guptajay)
+* [Ritwik Kanodia](https://github.com/ritwikkanodia)
+* [Vidurveer Duggal](https://github.com/vidurv2)
